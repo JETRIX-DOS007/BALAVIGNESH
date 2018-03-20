@@ -1,0 +1,13 @@
+These are the functions:
+
+Bet for a number.
+Generate random number as winner.
+Send ether to winners.
+
+
+npm install web3@0.19
+
+
+https://stackoverflow.com/questions/48430604/truffle-serve-throws-the-below-mentioned-error
+
+https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e
