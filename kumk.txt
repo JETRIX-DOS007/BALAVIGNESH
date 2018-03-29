@@ -1,0 +1,9 @@
+https://ethereum.stackexchange.com/questions/13415/deploy-contract-from-contract-in-solidity
+
+
+https://ethereum.stackexchange.com/questions/29812/truffle-migrate-how-to-deploy-a-contract-whose-constructor-takes-a-parameter?rq=1
+
+https://espeo.eu/blog/how-start-an-ethereum-ico/ -->Arumugam
+
+
+https://www.reddit.com/r/ethdev/comments/7orxt0/dynamic_deploying_contracts_with_truffle/ -->Bala
